@@ -6,7 +6,7 @@ Table hunt is an app that helps you to discover nearby restaurants and reserve y
 This app was developed in a team of 6 members - 3 developers and 3 designers - over a period of 12 weeks!
 
 ## Tech-Stack
-1. React Native(using Expo), ReactJS
+1. React Native(using Expo)
 2. Native Base for Styling
 3. Google Map Platform APIs
 4. Google OAuth using Implicit Grant Flow
